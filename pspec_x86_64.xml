@@ -1,0 +1,39 @@
+<PISI>
+    <Source>
+        <Name>python-slowaes</Name>
+        <Packager>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Packager>
+        <License>Apache-2.0</License>
+        <PartOf>programming.python</PartOf>
+        <Summary xml:lang="en">implementation of AES in Python</Summary>
+        <Description xml:lang="en">implementation of AES in Python
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-slowaes</Name>
+        <Summary xml:lang="en">implementation of AES in Python</Summary>
+        <Description xml:lang="en">implementation of AES in Python
+</Description>
+        <PartOf>programming.python</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/aes.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/aes.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/top_level.txt</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-08-13</Date>
+            <Version>0.1</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Update>
+    </History>
+</PISI>
