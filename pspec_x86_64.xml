@@ -2,8 +2,8 @@
     <Source>
         <Name>python-slowaes</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
@@ -25,20 +25,20 @@
             <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/SOURCES.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/dependency_links.txt</Path>
             <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/aes.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/slowaes-0.1a1-py3.5.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/slowaes-0.1a1-py3.5.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/slowaes-0.1a1-py3.5.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/slowaes-0.1a1-py3.5.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/aes.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/slowaes-0.1a1-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/slowaes-0.1a1-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/slowaes-0.1a1-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/slowaes-0.1a1-py3.6.egg-info/top_level.txt</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2017-12-08</Date>
+        <Update release="4">
+            <Date>2018-01-31</Date>
             <Version>0.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@stroblindustries.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
