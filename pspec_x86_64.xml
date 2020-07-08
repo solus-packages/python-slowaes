@@ -2,8 +2,8 @@
     <Source>
         <Name>python-slowaes</Name>
         <Packager>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>Algent Albrahimi</Name>
+            <Email>algent@protonmail.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
@@ -19,12 +19,6 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/aes.py</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/aes.pyc</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python2.7/site-packages/slowaes-0.1a1-py2.7.egg-info/top_level.txt</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/aes.py</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/slowaes-0.1a1-py3.7.egg-info/PKG-INFO</Path>
             <Path fileType="library">/usr/lib/python3.7/site-packages/slowaes-0.1a1-py3.7.egg-info/SOURCES.txt</Path>
@@ -33,12 +27,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2020-01-25</Date>
+        <Update release="6">
+            <Date>2020-06-26</Date>
             <Version>0.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>Algent Albrahimi</Name>
+            <Email>algent@protonmail.com</Email>
         </Update>
     </History>
 </PISI>
